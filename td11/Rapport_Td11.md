@@ -44,7 +44,7 @@
 	}
 ```
 > Input / ouput :
-![alt text](assets/result01.png)
+![](assets/result01.png)
 ## EX02
 ```html
 <body>
@@ -84,7 +84,7 @@
 </body>
 ```
 > Input / ouput :
-![alt text](assets/formulaire02.png)
+![](assets/formulaire02.png)
 ```java
 protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
@@ -106,8 +106,8 @@ protected void doGet(HttpServletRequest request, HttpServletResponse response) t
 	}
 ```
 > Input / ouput :
-![alt text](assets/resultt02.png)
-![alt text](assets/affichage02.png)
+![](assets/resultt02.png)
+![](assets/affichage02.png)
 ## EX03
 ```html
 <body style="text-align: center;">
@@ -125,7 +125,7 @@ protected void doGet(HttpServletRequest request, HttpServletResponse response) t
 ```
 
 > Input / ouput :
-![alt text](assets/login03.png)
+![](assets/login03.png)
 ```java
 protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String username = request.getParameter("1");
@@ -147,7 +147,7 @@ protected void doPost(HttpServletRequest request, HttpServletResponse response) 
 	}
 ```
 > Input / ouput :
-![alt text](assets/invalid.png)
-![alt text](assets/invalid03.png)
-![alt text](assets/valid.png)
-![alt text](assets/valid03.png)
+![](assets/invalid.png)
+![](assets/invalid03.png)
+![](assets/valid.png)
+![](assets/valid03.png)
